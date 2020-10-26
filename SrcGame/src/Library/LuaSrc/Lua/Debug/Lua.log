@@ -1,0 +1,42 @@
+﻿  lzio.c
+  lvm.c
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lvm.c(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  lundump.c
+  ltm.c
+  ltests.c
+  ltable.c
+  lstring.c
+  lstate.c
+  lparser.c
+  lopcodes.c
+  lobject.c
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(165): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(335): note: see declaration of 'strncpy'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(177): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(179): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(187): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(263): note: see declaration of 'strncat'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(188): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(191): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\lmach\desktop\dev\srcgame\src\library\luasrc\lua\lobject.c(192): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10586.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  lmem.c
+  llex.c
+  lgc.c
+  lfunc.c
+  ldump.c
+  ldo.c
+  ldebug.c
+  lcode.c
+  lapi.c
+  Generating Code...
+  Lua.vcxproj -> C:\Users\lmach\Desktop\Dev\SrcGame\src\Library\LuaSrc\Debug\Lua.lib

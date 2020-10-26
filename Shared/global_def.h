@@ -1,0 +1,14 @@
+#pragma once
+
+
+// QUANDO FOCAR COMPILAR PRO HOST TIRA ESSE
+ //#define HOST
+
+#define	PRIME_ITEM_TIME_3H		(60*60*3)
+#define	PRIME_ITEM_TIME_6H		(60*60*6)
+#define	PRIME_ITEM_TIME_12H		(60*60*12)
+#define	PRIME_ITEM_TIME_24H		(60*60*24)
+#define	PRIME_ITEM_TIME_7D  	(60*60*24*7)
+#define	PRIME_ITEM_TIME_30D  	(60*60*24*30)
+
+#define ITEM_KIND_PERFECT			9

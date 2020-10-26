@@ -1,0 +1,3 @@
+
+char *parkTextTalk = " %s dijo. ";
+
